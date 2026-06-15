@@ -4,7 +4,7 @@
 
 Provisioned a complete AWS multi-tier architecture using Terraform Infrastructure as Code (IaC).
 
-## Services Used
+# Services Used
 
 - Amazon VPC
 - Public & Private Subnets
